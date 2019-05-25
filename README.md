@@ -4,14 +4,20 @@ A curated list of awesome Sigfox resources for engineers, developers and hobbyis
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
 
+## Sigfox basics
+
+* [Developer Portal](http://makers.sigfox.com)
+* [Youtube videos](http://youtube.com/sigfox)
+* [Q&A Platform](http://ask.sigfox.com)
+* [Github code samples](http://github.com/sigfox)
+* [Network coverage)](http://sigfox.com/coverage)
+
+
 ### [Resources](https://resources.sigfox.com)
 Sigfox Knowledge database, everything from backend features to Sigfox radio certification
 
 ### [Slack](https://sigfoxbuilders.herokuapp.com)
 Come chat with Sigfox Developers Community!
-
-### [Ask forum](https://ask.sigfox.com)
-Sigfox Developers forum
 
 ### [Activate](https://buy.sigfox.com/activate)
 Activate your Sigfox Dev Kit
