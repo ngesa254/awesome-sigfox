@@ -2,6 +2,8 @@
 
 A curated list of awesome Sigfox resources for engineers, developers and hobbyists
 
+This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
+
 ### [Resources](https://resources.sigfox.com)
 Sigfox Knowledge database, everything from backend features to Sigfox radio certification
 
