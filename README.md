@@ -25,9 +25,6 @@ Lots of great Sigfox (and more) technical articles from a Sigfox Ambassador
 ### [Hackster](https://www.hackster.io/sigfox)
 Complete Sigfox tutorials for open-source projects
 
-### [Github](https://github.com/sigfox)
-Get code snippets to get started with your dev kits (to be cleaned up)
-
 ### [Youtube]( https://www.youtube.com/playlist?list=PLcw1TnahFRW9ebM_pZ_bh3SIRFiecJXnH)
 Sigfox Adoption Team channel, videos to get started with Sigfox
 
